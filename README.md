@@ -1,4 +1,4 @@
-# ADB Manager Pro
+# ADB Manager by highclass
 
 A user-friendly desktop application for managing Android devices via ADB and Fastboot.
 
