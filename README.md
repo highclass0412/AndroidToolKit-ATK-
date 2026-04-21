@@ -1,4 +1,4 @@
-# ADB Manager
+# ADB Manager Pro
 
 A user-friendly desktop application for managing Android devices via ADB and Fastboot.
 
@@ -31,17 +31,18 @@ A user-friendly desktop application for managing Android devices via ADB and Fas
 - Use system ADB if already installed
 
 ## Installation
------------------
+
 1. Install Python 3.7+
 2. Install dependencies:
----
+```bash
 pip install -r requirements.txt
----
+```
 
 ## Usage
----
+
+```bash
 python main.py
----
+```
 
 ## Project Structure
 
